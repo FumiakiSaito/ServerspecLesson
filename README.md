@@ -1,4 +1,4 @@
-# ServerspecLesson
+# Serverspec
 
 1. インストール  
 `$ gem install serverspec`
